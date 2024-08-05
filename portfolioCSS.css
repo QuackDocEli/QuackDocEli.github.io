@@ -1,6 +1,8 @@
 body {margin:auto;
       background-color:#0B132B;
-      color:#FFFFFF;}
+      color:#FFFFFF;
+     overflow-y:hidden;
+     overflow-x:scroll;}
 
 #backimg {height:100vh;
          width:auto;}
